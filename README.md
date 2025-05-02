@@ -1,6 +1,6 @@
 # 🚀 Boilerplate FastAPI + Vue 3 + Vite + Postgres
 
-A production-ready boilerplate combining a **FastAPI** backend, **Vue 3** frontend (with **Vite**), and **PostgreSQL** database — fully containerized with **Docker Compose**. Includes authentication ready to go.
+A production-ready boilerplate combining a **FastAPI** backend, **Vue 3** frontend (with **Vite**), and **PostgreSQL** database - fully containerized with **Docker Compose**. Includes authentication ready to go.
 
 Perfect as a starting point for full-stack applications with a clean and scalable setup.
 
